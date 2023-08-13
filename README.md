@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/pouyamaroufi/Flutter-Food-App-UI/master/assets/github/appicon.png" alt="flutter food app ui cover" width='50px' aligment='left'> 
 
-<h1> Flutter Food App UI </h1>
+<h1> Flutter Food App UI </h1> 
 
 ![](https://img.shields.io/github/license/pouyamaroufi/Flutter-Food-App-UI?color=FF5D73&style=for-the-badge)
 ![](https://img.shields.io/github/languages/pouyamaroufi/Flutter-Food-App-UI?color=6FD08C&label=Size&style=for-the-badge)
